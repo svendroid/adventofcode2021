@@ -1,7 +1,8 @@
 fun main() {
     val day1 = Day1()
 
-    val input: IntArray = input.toIntArray()
+    val input = readInput(1).trim().toIntArray()
+
     val resultPart1 = day1.solvePart1(input)
     println("Result part1: $resultPart1")
 
