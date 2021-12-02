@@ -10,3 +10,7 @@ What did I learn?
 * `com.willowtreeapps.assertk:assertk-jvm:0.25` is the lib I use for unit tests all the time at work. Needed to import
   it.
 * Array methods: `copyRanged` and `mapIndexed`
+
+## Day 2
+
+* I like `String#trimMargin()` to format input strings nicely in the tests.
