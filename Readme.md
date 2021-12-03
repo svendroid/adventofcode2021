@@ -14,3 +14,8 @@ What did I learn?
 ## Day 2
 
 * I like `String#trimMargin()` to format input strings nicely in the tests.
+
+## Day 3
+
+* Feels like a dirty solution :) Probably should have used some kind of bitwise-operator or so.
+* I liked the recursive part.
