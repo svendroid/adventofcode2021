@@ -19,3 +19,8 @@ What did I learn?
 
 * Feels like a dirty solution :) Probably should have used some kind of bitwise-operator or so.
 * I liked the recursive part.
+
+## Day 4
+
+* `boardsLines.windowed(size = 6, step = 6)` is a nice way to "slide" over a list with a given window size
+* Longest time was building the data structure for holding results and the boards.
