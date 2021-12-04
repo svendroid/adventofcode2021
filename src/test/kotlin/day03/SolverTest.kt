@@ -1,6 +1,5 @@
 package day03
 
-import Solver
 import assertk.assertThat
 import assertk.assertions.isEqualTo
 import org.junit.jupiter.api.Test

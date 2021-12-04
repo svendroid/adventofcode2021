@@ -1,3 +1,8 @@
+package day01
+
+import readInput
+import toIntArray
+
 fun main() {
     val day1 = Day1()
 
