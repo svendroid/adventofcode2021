@@ -1,8 +1,9 @@
 # Advent of Code 2021
 
-This year I want to improve my kotlin skills. Maybe use the puzzles to explore new features in kotlin.
+This year I want to improve my kotlin skills. 
+Explore new language feature, revisited concepts I already use, ...
 
-What did I learn?
+What did I learn so far?
 
 ## Day 1
 
@@ -24,3 +25,9 @@ What did I learn?
 
 * `boardsLines.windowed(size = 6, step = 6)` is a nice way to "slide" over a list with a given window size
 * Longest time was building the data structure for holding results and the boards.
+
+## Day 5
+
+* learnt what [Hydrothermal vents](https://de.wikipedia.org/wiki/Raucher_(Hydrothermie)) are
+* Took time to read about the Ranges in kotlin and its different operators e.g. `..`, `until`, `downTo`, `step`
+  - https://kotlinlang.org/docs/ranges.html
